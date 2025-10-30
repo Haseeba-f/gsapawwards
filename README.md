@@ -1,16 +1,37 @@
-# React + Vite
+⚡ Alani Nu Energy Drinks – Animated Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive, visually aesthetic landing page inspired by Alani Nu Energy Drinks, built using React, GSAP, and Tailwind CSS.
+The site delivers a smooth, energetic experience through scroll-triggered animations, motion effects, and modern UI transitions — capturing the vibrant essence of the brand.
 
-Currently, two official plugins are available:
+🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚛️ React.js – Component-based UI structure
 
-## React Compiler
+🎞️ GSAP (GreenSock Animation Platform) – Smooth scroll animations & transitions
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎨 Tailwind CSS – Utility-first responsive design
 
-## Expanding the ESLint configuration
+💡 Vite – Lightning-fast build tool
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Features
+
+🎬 Scroll-based and timed GSAP animations
+
+🌈 Eye-catching text and image transitions
+
+🧃 Clean, energetic UI inspired by Alani Nu aesthetics
+
+📱 Fully responsive layout for all screen sizes
+
+⚡ Optimized performance with Vite and Tailwind
+🎯 Purpose
+
+This project was created to practice React animations with GSAP, modern landing page design, and UI motion storytelling — showcasing creativity, animation timing, and frontend skills.
+
+🧠 Learnings
+
+Implemented scroll-triggered animations using GSAP
+
+Combined Tailwind CSS with animation frameworks for aesthetic design
+
+Optimized components for performance and responsiveness
