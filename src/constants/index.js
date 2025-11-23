@@ -1,7 +1,7 @@
 const flavorlists = [
   {
     name: "Cherry slush",
-    color: "blue",
+    color: "red",
     rotation: "md:rotate-[8deg] rotate-0",
   },
   {
