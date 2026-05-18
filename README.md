@@ -15,8 +15,6 @@
 
 <br/>
 
-![Project Banner](https://energy-drink-gsap.netlify.app/og-preview.png)
-
 > *Inspired by the Alani Nu brand — this project demonstrates advanced frontend animation techniques, scroll storytelling, and production-quality UI design.*
 
 <br/>
